@@ -1,0 +1,11 @@
+result time time the measurement was taken
+epoch	id numbers for each measurement time 
+nodeid	numbers for nodes
+parent	network structure
+voltage	voltage
+depth	network structure
+humidity	humidity
+humid_temp	temperature
+humid_adj	adjusted humidity
+hamatop	Incident PAR
+hamabot	Reflected PAR
